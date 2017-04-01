@@ -1,0 +1,2 @@
+# Brici
+nu stiu
